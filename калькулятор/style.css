@@ -1,0 +1,133 @@
+.main {
+  width: 1500;
+  margin: 0px 389px;
+}
+
+.result {
+  margin-top: 100px;
+  padding: 15px 0px;
+  text-align: right;
+  font-size: 20px;
+  background-color: #afb8f0;
+}
+
+.tools {
+  display: inline-block;
+  padding-bottom: 200px;
+  position: relative;
+  background-color: #0099ff;
+  padding-bottom: 203px;
+  padding-left: 159px;
+}
+
+.tools button {
+  display: inline-block;
+  padding: 12px 15px;
+  position: absolute;
+  background-color: #0099ff;
+  border: none;
+  color: #afb8f0;
+}
+
+button:hover {
+  background-color: #afb8f0;
+  color: #0099ff;
+}
+
+.clear {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding: 12px 15px;
+}
+.empty1 {
+  position: absolute;
+  top: 0px;
+  left: 40.5px;
+}
+
+.empty2 {
+  padding: 30px 30px;
+  position: absolute;
+  top: 0px;
+  left: 80.5px;
+}
+.multiply {
+  position: absolute;
+  top: 0px;
+  left: 120.5px;
+}
+.seven {
+  top: 40px;
+  left: 0px;
+}
+.eight {
+  top: 40px;
+  left: 40.5px;
+}
+.nine {
+  top: 40px;
+  left: 80.5px;
+}
+.divide {
+  top: 40.5px;
+  left: 120.5px;
+}
+.four {
+  top: 81px;
+  left: 0px;
+}
+.five {
+  top: 81px;
+  left: 40.5px;
+}
+.six {
+  top: 81px;
+  left: 80.5px;
+}
+.minus {
+  top: 81px;
+  left: 123.5px;
+}
+.one {
+  top: 121.5px;
+  left: 0px;
+}
+.two {
+  top: 121.5px;
+  left: 40.5px;
+}
+.three {
+  top: 121.5px;
+  left: 80.5px;
+}
+.plus {
+  top: 122.5px;
+  left: 121.5px;
+}
+.empty3 {
+  top: 162px;
+  left: 0px;
+}
+
+.zero {
+  top: 162px;
+  left: 40.5px;
+}
+.empty4 {
+  top: 162px;
+  left: 80.5px;
+}
+.equil {
+  top: 162px;
+  left: 120.5px;
+}
+.empty1:hover,
+.empty2:hover,
+.empty3:hover,
+.empty4:hover {
+  background-color: #0099ff;
+}
+.result-value {
+  color: #0099ff;
+}
